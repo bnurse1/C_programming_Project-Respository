@@ -1,2 +1,2 @@
-# C_programming_Project-Respository
+# Elet-1102_C_programming_Project-Respository
 C_Programming_Project repository
